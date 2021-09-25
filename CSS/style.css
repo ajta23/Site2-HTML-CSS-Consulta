@@ -111,6 +111,9 @@ form label, form legend {
     margin-bottom: 10px;
 }
 
+.contato-margem {
+    margin-left: 36px;
+}
 .input-padrao {
     display: block;
     margin-bottom: 20px;
@@ -121,6 +124,7 @@ form label, form legend {
 .checkbox {
     margin: 20px 0;
 }
+
 
 .enviar {
     width: 40%;
